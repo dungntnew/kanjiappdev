@@ -1,0 +1,4 @@
+kanjiappdev
+===========
+
+console kanjiapp dev
